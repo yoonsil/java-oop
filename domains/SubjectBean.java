@@ -1,6 +1,6 @@
 package com.bitcamp.domains;
 
-public class SubjectsBean {
+public class SubjectBean {
 	private int kor,eng,math;
 	private double total, avg;
 	
